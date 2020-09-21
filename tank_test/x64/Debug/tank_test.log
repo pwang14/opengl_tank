@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Patrick Wang\School Stuff\Extra\Learning\OpenGL\tank_test\tank_test\main.cpp(200,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Patrick Wang\School Stuff\Extra\Learning\OpenGL\tank_test\tank_test\main.cpp(389,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Patrick Wang\School Stuff\Extra\Learning\OpenGL\tank_test\tank_test\main.cpp(390,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Patrick Wang\School Stuff\Extra\Learning\OpenGL\tank_test\tank_test\main.cpp(394,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Patrick Wang\School Stuff\Extra\Learning\OpenGL\tank_test\tank_test\main.cpp(395,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Patrick Wang\School Stuff\Extra\Learning\OpenGL\tank_test\tank_test\main.cpp(397,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Patrick Wang\School Stuff\Extra\Learning\OpenGL\tank_test\tank_test\main.cpp(398,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Patrick Wang\School Stuff\Extra\Learning\OpenGL\tank_test\tank_test\main.cpp(404,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  tank_test.vcxproj -> C:\Users\Patrick Wang\School Stuff\Extra\Learning\OpenGL\tank_test\x64\Debug\tank_test.exe

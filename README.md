@@ -1,4 +1,4 @@
-# 3-D graphics display
+# 3D graphics display
 
 This program gives the user control of a 3D tank model.
 

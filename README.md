@@ -13,5 +13,3 @@ The custom fragment shader implements Phong shading.
 A seperate vertex and fragment shader is used to create ray-traced shadows. Some linear algebra is used to calculate where the shadows would intersect the plane defined by a given surface. The shadow is then cropped to fit within that surface's boundaries.
 
 I added an orbiting camera mechanic that is restriced to be only located within the defined walls. Collision detection is implemented between the tank and the walls.
-
-
